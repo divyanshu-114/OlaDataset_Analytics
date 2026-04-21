@@ -1,0 +1,9 @@
+Test,Statistic,p-value,Significant?,Insight
+Point-Biserial Correlation: VTAT vs Success,r = nan,nan,NO,VTAT is significantly correlated with ride success
+Chi-Square: Cancellation vs Vehicle Type,χ² = 3.8725,0.693931,NO,Cancellation rates significantly differ by vehicle type
+Chi-Square: Cancellation vs Time of Day,χ² = 1.3481,0.929905,NO,Time of day significantly influences cancellation rates
+Chi-Square: Who Cancels vs Vehicle Type,χ² = 3.5775,0.733635,NO,Driver vs customer cancel patterns differ by vehicle type
+ANOVA: Driver Rating across Vehicle Types,F = 0.2768,0.948117,NO,Driver ratings vary significantly across vehicle categories
+Welch T-Test: Booking Value by VTAT Group,t = 0.7477,0.454666,NO,Booking value differs between low- and high-VTAT rides
+Linear Regression: Booking Value Prediction,R² = -0.0003,N/A,PARTIAL,Ride distance is the strongest predictor of fare; MAE = ₹488
+Logistic Regression: Cancellation Prediction,AUC = 0.5015,N/A,PARTIAL,Pre-booking features have limited predictive power alone

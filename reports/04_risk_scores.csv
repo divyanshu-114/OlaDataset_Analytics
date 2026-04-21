@@ -1,0 +1,43 @@
+vehicle_type,time_of_day,total,cancelled,cancel_rate,risk_score,risk_label
+Auto,Afternoon,1183,308,26.04,-0.65,Medium Risk
+Auto,Early Morning,1189,325,27.33,0.45,Medium Risk
+Auto,Evening,1217,303,24.9,-1.62,Low Risk
+Auto,Late Night,1471,386,26.24,-0.48,Medium Risk
+Auto,Morning,853,235,27.55,0.64,Medium Risk
+Auto,Night,1167,292,25.02,-1.52,Low Risk
+Bike,Afternoon,1192,300,25.17,-1.39,Low Risk
+Bike,Early Morning,1200,310,25.83,-0.83,Medium Risk
+Bike,Evening,1198,342,28.55,1.49,High Risk
+Bike,Late Night,1545,432,27.96,0.99,Medium Risk
+Bike,Morning,909,241,26.51,-0.25,Medium Risk
+Bike,Night,1160,324,27.93,0.97,Medium Risk
+Mini,Afternoon,1189,325,27.33,0.45,Medium Risk
+Mini,Early Morning,1146,294,25.65,-0.98,Medium Risk
+Mini,Evening,1205,317,26.31,-0.42,Medium Risk
+Mini,Late Night,1470,382,25.99,-0.69,Medium Risk
+Mini,Morning,876,241,27.51,0.61,Medium Risk
+Mini,Night,1098,298,27.14,0.29,Medium Risk
+Prime Plus,Afternoon,1217,330,27.12,0.27,Medium Risk
+Prime Plus,Early Morning,1180,339,28.73,1.65,High Risk
+Prime Plus,Evening,1182,297,25.13,-1.42,Low Risk
+Prime Plus,Late Night,1469,404,27.5,0.6,Medium Risk
+Prime Plus,Morning,931,271,29.11,1.97,High Risk
+Prime Plus,Night,1251,340,27.18,0.33,Medium Risk
+Prime SUV,Afternoon,1187,298,25.11,-1.44,Low Risk
+Prime SUV,Early Morning,1153,310,26.89,0.08,Medium Risk
+Prime SUV,Evening,1185,329,27.76,0.82,Medium Risk
+Prime SUV,Late Night,1556,450,28.92,1.81,High Risk
+Prime SUV,Morning,843,219,25.98,-0.7,Medium Risk
+Prime SUV,Night,1201,314,26.14,-0.56,Medium Risk
+Prime Sedan,Afternoon,1274,354,27.79,0.85,Medium Risk
+Prime Sedan,Early Morning,1156,291,25.17,-1.39,Low Risk
+Prime Sedan,Evening,1160,309,26.64,-0.13,Medium Risk
+Prime Sedan,Late Night,1503,401,26.68,-0.1,Medium Risk
+Prime Sedan,Morning,900,238,26.44,-0.31,Medium Risk
+Prime Sedan,Night,1167,337,28.88,1.78,High Risk
+eBike,Afternoon,1176,322,27.38,0.5,Medium Risk
+eBike,Early Morning,1162,298,25.65,-0.98,Medium Risk
+eBike,Evening,1229,343,27.91,0.95,Medium Risk
+eBike,Late Night,1510,386,25.56,-1.06,Low Risk
+eBike,Morning,853,230,26.96,0.14,Medium Risk
+eBike,Night,1153,299,25.93,-0.74,Medium Risk
